@@ -1,0 +1,16 @@
+{
+  "name": "editable-table",
+  "version": "1.0.0",
+  "description": "Tiny jQuery/Bootstrap widget that makes an HTML table editable.",
+  "main": "mindmup-editabletable.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hospiq/editable-table.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hospiq/editable-table/issues"
+  },
+  "homepage": "https://github.com/hospiq/editable-table#readme"
+}
